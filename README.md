@@ -32,7 +32,7 @@ O objetivo do projeto é aplicar os algoritmos aprendidos em sala de aula para r
 - `npm install` </br>
  - `ts-node casosTesteExercicioX.X.ts`
 
+## Youtube
 
-
-
-
+- [Vídeo - Parte 1](https://youtu.be/p0W3j5C68j8)
+- [Vídeo - Parte 2](https://youtu.be/jIDuoZfOEEg)
