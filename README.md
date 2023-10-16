@@ -1,44 +1,35 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
 
 Temas:
- - Grafos1
  - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
-# NomedoProjeto
+# Exercícios
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 2<br>
+**Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0020521  |  Valderson Pontes da Silva Junior |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O objetivo do projeto é aplicar os algoritmos aprendidos em sala de aula para resolver desafios do LeetCode, uma plataforma online que oferece uma variedade de problemas de programação. O intuito é aprimorar nossas habilidades práticas e consolidar o conhecimento teórico por meio da resolução eficaz desses problemas.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+- Exercício 1 - Dijkstra
+<img src="../Grafos2_Exercicios/assets/exercicio1.png" />
+- Exercício 2.1 - Prim
+<img src="../Grafos2_Exercicios/assets/exercicio2.1.png" />
+- Exercício 2.2 - Kruskal
+<img src="../Grafos2_Exercicios/assets/exercicio2.2.png" />
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Typecript<br><br>
+**Como rodar**: 
+- `npm install -g ts-node` </br>
+- `npm install` </br>
+ - `ts-node casosTesteExercicioX.X.ts`
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 
