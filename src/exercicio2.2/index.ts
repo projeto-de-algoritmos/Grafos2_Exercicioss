@@ -1,0 +1,1 @@
+export { minCostConnectPoints as minCostConnectPointsExercicio2_2 } from "./solucaoExercicio1584";
