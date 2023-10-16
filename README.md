@@ -17,13 +17,13 @@ O objetivo do projeto é aplicar os algoritmos aprendidos em sala de aula para r
 
 ## Screenshots
 - [Exercício 1 - Dijkstra](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)
-<img src="../Grafos2_Exercicios/assets/exercicio1.png" alt="exercicio1" />
+![exercicio1](https://github.com/valdersonjr/Grafos2_Exercicios/assets/65057466/884f582e-d299-4770-85e6-c211a9c70721)
 
 - [Exercício 2.1 - Prim](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
-<img src="../Grafos2_Exercicios/assets/exercicio2_1.png" alt="exercicio2.1" />
+![exercicio2 1](https://github.com/valdersonjr/Grafos2_Exercicios/assets/65057466/fb0f83b4-6e38-43ad-82b5-7809152d3bc9)
 
 - [Exercício 2.2 - Kruskal](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
-<img src="../Grafos2_Exercicios/assets/exercicio2_2.png" alt="exercicio2.2" />
+![exercicio2 2](https://github.com/valdersonjr/Grafos2_Exercicios/assets/65057466/4f4b2197-925d-4078-a3a2-5dda7117389b)
 
 ## Instalação 
 **Linguagem**: Typecript<br><br>
